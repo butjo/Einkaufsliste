@@ -9,7 +9,7 @@
 | Telefon | Derzeit nicht Verfügbar      |
 |Geburtstag | 15. August 1945|
 
-![alt text](../eddie.jpg "Sepp Gustav Gans")
+![alt text](eddie.jpg "Sepp Gustav Gans")
 
 
 ## Schulische Ausbildung/Studium
