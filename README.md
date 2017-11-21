@@ -9,6 +9,8 @@
 | Telefon | Derzeit nicht Verfügbar      |
 |Geburtstag | 15. August 1945|
 
+![alt text](../eddie.jpg "Sepp Gustav Gans")
+
 
 ## Schulische Ausbildung/Studium
 * 2016 - Wintersemester Studium: Allgemeine Informatik
